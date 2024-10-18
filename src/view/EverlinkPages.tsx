@@ -57,7 +57,7 @@ export default function EverlinkPages() {
                 />
               </>
             ) : (
-              <h1>Select Theme</h1>
+              <h1>Select Theme Here</h1>
             )}
           </Box>
         </Grid2>
@@ -66,7 +66,7 @@ export default function EverlinkPages() {
           sx={{ display: activeStep === 0 ? 'none' : 'flex', p: 3 }}
         >
           <Box>
-            <h1>Preview</h1>
+            <h1>Preview Here</h1>
           </Box>
         </Grid2>
       </Grid2>
